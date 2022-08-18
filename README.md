@@ -1,4 +1,4 @@
-# Bank-of-England
+# BoE
 
 This repo consists of a source code of a python script to highlight which firms should receive the most attention, according to the metrics provided in the data. Further, ML techniques are used to generate further insights.
 
@@ -16,4 +16,4 @@ In case you have any difficulties or issues while trying to run the script you c
 
 **Credits**
 
-All the data credits to Bank of England
+All the data credits to BoE
